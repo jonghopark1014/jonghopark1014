@@ -1,12 +1,12 @@
 # 안녕하세요
-<pre>
-1일 1커밋
-합시다
-할겁니다
-할거에요
-해야만합니다
-ㅠ
-</pre>
+
+1일 1커밋<br>
+합시다<br>
+할겁니다<br>
+할거에요<br>
+해야만합니다<br>
+ㅠ<br>
+
 
 ![jonghopark1014's github stats](https://github-readme-stats.vercel.app/api?username=jonghopark1014&show_icons=true)
 
