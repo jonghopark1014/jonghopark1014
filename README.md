@@ -1,6 +1,7 @@
 # 안녕하세요
 
-<div align="center" style="border: 1px solid #48BAE4; height: 100px;">
+<div align="center">
+```print('Hello, my World')```<br>
  1일 1커밋<br>
  합시다<br>
  할겁니다<br>
