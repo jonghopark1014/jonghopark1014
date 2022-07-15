@@ -5,3 +5,5 @@
 할거에요
 해야만합니다
 ㅠ
+
+![jonghopark1014's github stats](https://github-readme-stats.vercel.app/api?username=jonghopark1014&show_icons=true)
