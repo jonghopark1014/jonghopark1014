@@ -22,7 +22,6 @@ print('Hello, my World')
 ![jonghopark1014's github stats](https://github-readme-stats.vercel.app/api?username=jonghopark1014&show_icons=true)
 ***
 
-***
 ## Tech Stack
  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
