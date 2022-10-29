@@ -29,6 +29,8 @@ print('Hello, my World')
  ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
  ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
- ![C++](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=C++&logoColor=white) 
+ ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social
+) 
+ 
    
 ***
