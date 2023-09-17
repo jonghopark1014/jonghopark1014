@@ -15,8 +15,6 @@ print('Hello, my World')
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qkrqkrgh)](https://solved.ac/qkrqkrgh)
  <img src="http://mazandi.herokuapp.com/api?handle=qkrqkrgh&theme=warm"/>
  <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghopark1014&layout=compact&theme=dark)
-![jonghopark1014's github stats](https://github-readme-stats.vercel.app/api?username=jonghopark1014&show_icons=true&theme=dark)
 ***
 
 ## Tech Stack
