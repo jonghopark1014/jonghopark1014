@@ -11,12 +11,6 @@ print('Hello, my World')
  <br>
 </div>
 
-***
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qkrqkrgh)](https://solved.ac/qkrqkrgh)
- <img src="http://mazandi.herokuapp.com/api?handle=qkrqkrgh&theme=warm"/>
- <br>
-***
-
 ## Tech Stack
 ### Language
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
