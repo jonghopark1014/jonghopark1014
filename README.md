@@ -32,7 +32,7 @@ Hadoop Ecosystem 기반 어제의 나보다 더 성장할 수 있도록 도와�
  Hadoop Ecosystem 기반 시청 뉴스와 관련된 사건을 놓치지 않도록 도와주는 웹서비스 (2023.02 - 2023.04)   
 
 [**PLAN!T**](https://github.com/Bluuubery/Rendez-Boo)  
-WebRTC 기반 친구와 함께하는 실시간 여행 계획 웹서비스 (2023.01 - 2023.02)
+WebRTC 기반 친구와 함께하는 실시간 여행 계획 웹서비스 (2023.01 - 2023.02)   
 (SSAFY 2학기 프로젝트 우수상)
 
 [**CLICKFLIX**](https://github.com/Bluuubery/Movie-Picker)  
