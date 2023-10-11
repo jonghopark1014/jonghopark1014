@@ -1,5 +1,4 @@
 # Jongho Park
-#### Software Engineer
 
 ## Experience
 *2022.07 - 2023.06*
